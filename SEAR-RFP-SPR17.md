@@ -97,8 +97,8 @@ IV. The Award
         will allow everyone to create their own version of the
         deliverables for this project.
 
-![](media/image1.jpeg){width="6.319444444444445in"
+![](media/image002.jpeg){width="6.319444444444445in"
 height="3.4027777777777777in"}
 
-![](media/image2.jpeg){width="6.208333333333333in"
+![](media/image004.jpeg){width="6.208333333333333in"
 height="3.8472222222222223in"}
