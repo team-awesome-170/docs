@@ -97,5 +97,5 @@ IV. The Award
         will allow everyone to create their own version of the
         deliverables for this project.
 
-![example 1](docs/media/image002.jpg)
-![example 2](docs/media/image004.jpg)
+![example 1](media/image002.jpg)
+![example 2](media/image004.jpg)
