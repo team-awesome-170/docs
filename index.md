@@ -2,6 +2,6 @@
 
 ##Site Map
 
-###### [SEAR](https://github.com/team-awesome-170/docs/blob/master/SEAR-RFP-SPR17)
+###### [SEAR](https://team-awesome-170.github.io/docs/SEAR-RFP-SPR17)
 
-###### [Vision and Scope](https://github.com/team-awesome-170/docs/blob/master/vision_and_scope)
+###### [Vision and Scope](https://team-awesome-170.github.io/docs/vision_and_scope)
