@@ -1,11 +1,11 @@
 ##Converting .docx to markdown. 
+[Pandoc]( http://pandoc.org/)
 
-Install http://pandoc.org/
 
-http://pandoc.org/installing.html
+1. [Install](http://pandoc.org/installing.html)
 
-Open cmd, powershell or terminal
+2. Open cmd, powershell or terminal
 
-In the working directory where your files are located run 
+3. In the working directory where your files are located run 
 
 `# pandoc -s name_of_input_file.docx -t markdown - name_of_output_file.md`
