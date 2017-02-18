@@ -4,9 +4,12 @@
     1.2 Business Opportunity
         *Rob*
     1.3 Business Objectives
-    1.4 Success Metrics
-    1.5 Vision Statement
-    1.6 Business Risks
+        *Shah*           
+    1.4 Success Metrics
+        *Shah*
+    1.5 Vision Statement
+        *Shah*
+    1.6 Business Risks
     1.7 Business Assumptions and Dependencies
 
 #2. Scope and Limitations
