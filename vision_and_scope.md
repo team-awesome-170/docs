@@ -49,6 +49,7 @@ __Students__
 __Questions__
 
 * Would a DBA be required to setup/maintain the database and would database or other IT staff be considered a stakeholder?
+
 ## 3.2 Project Priorities
 ## 3.3 Deployment Considerations
 
