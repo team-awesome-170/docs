@@ -1,6 +1,6 @@
 # Software Requirements Documents. 
 
-##Site Map
+## Site Map
 
 ###### [SEAR](https://team-awesome-170.github.io/docs/SEAR-RFP-SPR17)
 
