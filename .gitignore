@@ -1,0 +1,11 @@
+#any filenames or *.filetypes put here will be ignored by git and therefore not uploaded to github
+
+# OS generated files #
+######################
+.DS_Store*
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Icon?
