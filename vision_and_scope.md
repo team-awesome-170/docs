@@ -6,7 +6,7 @@
 ## 1.2 Business Opportunity
 
 ## 1.3 Business Objectives
-	The team shall create a database system that automatically updates the required Faculty information into printed information cards. The team shall use tools like github and slack to communicate and collaborate throughout the semester to create a fleshed out SRS for the project.
+	The business objective is to create an automated tool where it takes the required information from a database system and use that information to generate faculty information cards.
 ## 1.4 Success Metrics
 	Acceptance criteria 1: The system should includes the automation of the necessary information being printed into all the cards using information provided by the user.
 	Acceptance criteria 2: The system should also be capable of printing a single card upon request.
@@ -23,7 +23,7 @@
 
 ## 1.5 Vision Statement
 	To create a user-friendly automated software that helps CS faculty administration generate accurate faculty information cards.
-	Desired End-State : A sleek software system that helps the CSUS faculty administration.
+	Desired End-State : A sleek software tool that helps the CSUS faculty administration create information cards.
 ## 1.6 Business Risks
       
 ## 1.7 Business Assumptions and Dependencies
