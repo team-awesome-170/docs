@@ -26,6 +26,12 @@
     3.1 Stakeholder Profiles
         *Rob*
     3.2 Project Priorities
-        *Cindi*
+        * Features: all features scheduled for release 1.0 must be fully completed, and matches all the functional requirements. 
+        * Quality: Have to pass 97% of user acceptance tests, (including: login, security, functions, and system performance tests). 
+         *Schedule: Phrase1 of project are scheduled to be available on 20 May, 2017. Overrun of up to 2 weeks acceptable without sponsor approval. 
+        *Cost: +15% budgets difference are acceptable without sponsor review. Project manager is responsible for communicating and review the expenses with financial department of cost business unit. 
+        *Staff: total team size is six team members: 2 developers, half-time tester, 1 project manager will have 50% of time for project management, half-time for Business Analyst. Additional 1 member can be borrowed from other team if necessary during the project period. Team members will be encouraged to wrap up a strong, high quality program in order to leave enough time to carefully plan a well-structured, and prepare for system go-live, and problem solving.
+        *Change Management: any requirements changes request by customer, project manager is responsible to communicate with related teams, and set up meeting to address it.  Any adjusts cost up to 40 man hours. Project manager has to submit additional resource request, and signature by project manager of client. Project manager is responsible to communicate with market department if there is any cost outside of contract. 
+
     3.3 Deployment Considerations
-        *Cindi*
+        The Oracle database 12.12 is required to be installed on the database server, and apple browser and windows explore need to be upgraded to the newest version on the web server. Application server have to be ready one day before promote all the program objects from test environment to production. One additional backup printer has to be ready for print the faculty information cards. 
