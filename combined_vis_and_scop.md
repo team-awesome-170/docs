@@ -4,7 +4,7 @@
 
 Version 1.0
 
-Prepared by: ???, Connor | Binjola, Devesh | Duan, Cindy | Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
+Prepared by: Aitken, Connor | Binjola, Devesh | Duan, Cindy | Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
 
 CSC170 Section 01 -- Fletter, Dale
 
@@ -45,12 +45,12 @@ e. Each administrator can setup an academic department and grant authorities
 f. No administrator should be able to see the data of a different department
 
 ##1.5 Vision Statement
-To create a user-friendly automated software that helps CS faculty administration generate accurate faculty information cards.
+To create a user-friendly automated software that helps CS faculty administration generate accurate faculty information cards.
 
 *Desired End-State*: A sleek software tool that helps the CSUS faculty administration create information cards.
 
 ##1.6 Business Risks
-a. No business risks have been identified.
+a. No business risks have been identified for the implementation of this system. If the system is adopted, having a single admin is a potential single point of failure. The system should consist of a global administrator(s), application administrator(s), and user(s) for a more robust management framework. 
 
 ##1.7 Business Assumptions and Dependencies
 a. It is assumed the the department will have an office administrator who will approve changes made to faculty member information. The system therefore is dependent on having an application administrator.  
