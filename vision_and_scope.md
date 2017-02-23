@@ -4,13 +4,13 @@
 
 Version 1.0
 
-Prepared by:| Aitken, Connor | Binjola, Devesh | Duan, Cindy | Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
+Prepared by:  | Aitken, Connor | Binjola, Devesh | Duan, Cindy | Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
 
 CSC170 Section 01 -- Fletter, Dale
 
 February 22, 2017
 
-#1. Business Requirements
+# 1. Business Requirements
 ## 1.1 Background
 The Computer Science (CS) department must post faculty information cards each semester outside the office where they sit.  The information cards are printed for each semester to include information for the faculty member, the courses he/she teaches, and office infomration including location, phone number and times that the faculty member can be found there.
 
@@ -59,7 +59,7 @@ To create a user-friendly automated software that helps CS faculty administratio
 * The application administrator or clerk depend on faculty members to submit changes to their information.  
 * The application administrator or clerk depend on information about the assignment of classrooms.    
 
-#2. Scope and Limitations
+# 2. Scope and Limitations
 ## 2.1 Major Features
 Elevator Pitch: A partially automated Faculty card system for the Department of Computer Science
  California State University Sacramento.
@@ -92,7 +92,7 @@ The initial release will consist of a large subset of desired features. These fe
 ## 2.4 Limitations and Exclusions
 * The option to create multiple academic is not planned for this release but will be an additional feature in future releases.
 
-#3. Business Context
+# 3. Business Context
 ## 3.1 Stakeholder Profiles
 __Office Administrator__ (Reyna) - Downloads class schedule data from Space Management (ABA) and transfers to local database (ETL).  Receives office hour information by email and enters this information into the database.
 
