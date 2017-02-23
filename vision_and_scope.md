@@ -4,7 +4,7 @@
 
 Version 1.0
 
-Prepared by: Aitken, Connor | Binjola, Devesh | Duan, Cindy | Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
+Prepared by:| Aitken, Connor | Binjola, Devesh | Duan, Cindy | Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
 
 CSC170 Section 01 -- Fletter, Dale
 
