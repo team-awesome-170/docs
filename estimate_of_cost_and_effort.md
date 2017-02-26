@@ -1,15 +1,15 @@
-#Estimate of Cost And Effort
+# Estimate of Cost And Effort
 
 - Name of the project team (our organization)
 - Team members and their resumes
 - Product Backlog: Suggested list of features you will use to begin your work
 - Total number of work-hours your team will put in before the final
 
-##Team Awesome
+## Team Awesome
 Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert Wadsworth
 
-##Resumes
-###Bryce Hairabedian
+## Resumes
+### Bryce Hairabedian
   + Education
     - B.S., Computer Science, Sacramento State
   + Experience
@@ -20,7 +20,7 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Methodologies: Agile, Scrum, Iterative
     - Tools: Git, Linux, Spring, Eclipse, Photoshop, Illustrator 
     
-###Shah Newaz
+### Shah Newaz
   + Education
     - B.S., Computer Science, Sacramento State
   + Experience
@@ -47,7 +47,7 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Frameworks: Flask, Django, Pyramid, Node-RED, 
     - Tools: git/github, Unifi controller, Netmiko(python netwokring automation)
     
-##Product Backlog
+## Product Backlog
 __Our Product Backlog below is organized according to priority set by Product Owner.__
 <table>
   <tr>
@@ -83,7 +83,7 @@ __Our Product Backlog below is organized according to priority set by Product Ow
 
 </table>
 
-##Total Hours Worked
+## Total Hours Worked
 The estimated total hours worked is per person per week basis. Six total team members
 expected to contribute at roughly six hours per week. And a strict deliverable date of May 15th 
 currently leaves ten weeks remaining. Resulting in __360 estimated hours__ to be worked by Team Awesome.
