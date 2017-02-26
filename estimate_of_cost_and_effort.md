@@ -31,7 +31,22 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Framework: Angular2, Codename one, Gamemaker, Unity
     - Methodologies: Agile, Scrum, Iterative
     - Tools: Git, Linux, Eclipse, Unity, WebStorm, InteliJ, Jira, Slack, Sublime
-
+    
+### Connor Aitken
+  + Education 
+    - B.S. Computer Science (in progress)
+  + Experience 
+    - Managed services Consultant 
+    - Internet of Things researcher
+    - Web Application consultant
+    - Radio/wireless network engineer
+  + Skills
+    - Languages: Python, C/C++, javascript
+    - Systems Administration: linux, Windows, MacOS, VMware
+    - Networking: Cisco IOS, Ubiquiti Unifi, fortigate, xbee/zigbee
+    - Frameworks: Flask, Django, Pyramid, Node-RED, 
+    - Tools: git/github, Unifi controller, Netmiko(python netwokring automation)
+    
 ##Product Backlog
 __Our Product Backlog below is organized according to priority set by Product Owner.__
 <table>
