@@ -21,12 +21,12 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Tools: Git, Linux, Spring, Eclipse, Photoshop, Illustrator 
 
 ##Product Backlog
-__Our Product Backlog is below is organized according to priority set by Product Owner.__
+__Our Product Backlog below is organized according to priority set by Product Owner.__
 <table>
   <tr>
     <th>Priority</th>
     <th>Sprint</th>
-    <th>Feature/Story/Item</th>
+    <th>Feature / Story / Item</th>
   </tr>
   <tr>
     <td>1</td>
@@ -59,4 +59,4 @@ __Our Product Backlog is below is organized according to priority set by Product
 ##Total Hours Worked
 The estimated total hours worked is per person per week basis. Six total team members
 expected to contribute at roughly six hours per week. And a strict deliverable date of May 15th 
-currently leaves ten weeks remaining. Resulting in 360 (6*6*10) estimated hours to be worked by Team Awesome.
+currently leaves ten weeks remaining. Resulting in __360 estimated hours__ to be worked by Team Awesome.
