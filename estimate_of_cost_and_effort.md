@@ -21,7 +21,7 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Tools: Git, Linux, Spring, Eclipse, Photoshop, Illustrator 
 
 ##Product Backlog
-For our Product Backlog we 
+__Our Product Backlog is below is organized according to priority set by Product Owner.__
 <table>
   <tr>
     <th>Priority</th>
@@ -31,8 +31,29 @@ For our Product Backlog we
   <tr>
     <td>1</td>
     <td>1</td>
-    <td>Get/pull class schedule data from Space Mnagement (ABA) populate database for the Office administrator.</td>
+    <td>Get/pull class schedule data from Space Management (ABA) populate database automatically for the Office administrator.</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>2</td>
+    <td>Create web interface for Instructors to be able to upload Office Hours, Office Room, Email.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2</td>
+    <td>Present class schedule data on a web interface for the Office Administrator (Reyna.)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>3</td>
+    <td>Create view for individual faculty member to edit/add/remove information durring current semester.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>3</td>
+    <td>Automated print feature upon change to any faculty member information.</td>
+  </tr>
+
 </table>
 
 ##Total Hours Worked
