@@ -22,11 +22,18 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
 
 ##Product Backlog
 For our Product Backlog we 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+<table>
+  <tr>
+    <th>Priority</th>
+    <th>Sprint</th>
+    <th>Feature/Story/Item</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>Get/pull class schedule data from Space Mnagement (ABA) populate database for the Office administrator.</td>
+  </tr>
+</table>
 
 ##Total Hours Worked
 The estimated total hours worked is per person per week basis. Six total team members
