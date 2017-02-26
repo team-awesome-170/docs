@@ -9,7 +9,7 @@
 Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert Wadsworth
 
 ##Resumes
-###Bryce Hairabedian - Resume
+###Bryce Hairabedian
   + Education
     - B.S., Computer Science, Sacramento State
   + Experience
@@ -19,17 +19,16 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Languages: Java, JavaScript, C/C++, PHP, MySQL
     - Methodologies: Agile, Scrum, Iterative
     - Tools: Git, Linux, Spring, Eclipse, Photoshop, Illustrator 
+
 ##Product Backlog
+For our Product Backlog we 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ##Total Hours Worked
 The estimated total hours worked is per person per week basis. Six total team members
 expected to contribute at roughly six hours per week. And a strict deliverable date of May 15th 
-currently leaves ten weeks remaining. Resulting in 360 estimated hours to be worked by Team Awesome.
-
-
-
-Team Awesome Estamated Hours to be Worked = 6 people * 6 hours per week * 10 weeks remaining
-
-on our current efforts and restri
-
-6 people * 6 hours * 10 weeks = 
+currently leaves ten weeks remaining. Resulting in 360 (6*6*10) estimated hours to be worked by Team Awesome.
