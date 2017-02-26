@@ -19,6 +19,18 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Languages: Java, JavaScript, C/C++, PHP, MySQL
     - Methodologies: Agile, Scrum, Iterative
     - Tools: Git, Linux, Spring, Eclipse, Photoshop, Illustrator 
+    
+###Shah Newaz
+  + Education
+    - B.S., Computer Science, Sacramento State
+  + Experience
+    - Web Developer: Vision Service Prover
+    - Competitive Programming : Ludem Dare, ICPC, Major League Hacking, Top Coder
+  + Skills
+    - Languages: Html, Java, JavaScript, Typescript, C/C++/C#, MySQL
+    - Framework: Angular2, Codename one, Gamemaker, Unity
+    - Methodologies: Agile, Scrum, Iterative
+    - Tools: Git, Linux, Eclipse, Unity, WebStorm, InteliJ, Jira, Slack, Sublime
 
 ##Product Backlog
 __Our Product Backlog below is organized according to priority set by Product Owner.__
