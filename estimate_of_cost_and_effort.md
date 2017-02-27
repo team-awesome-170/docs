@@ -47,6 +47,19 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Frameworks: Flask, Django, Pyramid, Node-RED, 
     - Tools: git/github, Unifi controller, Netmiko(python netwokring automation)
     
+### Robert Wadsworth
+  + Education 
+    - B.S., Computer Science, Sacramento State
+  + Experience 
+    - STG/USDA - Software Developer
+    - Intel - Software Engineering Intern
+    - CalPERS - Technical Assistant
+  + Skills
+    - Languages: Perl, MySQL, HTML 5, CSS, JavaScript, C#.NET, Java, Python
+    - Systems Administration: linux, Windows, MacOS
+    - Frameworks: Catalyst, Django, jQuery, Angular
+    - Tools: subversion, git/github, eclipse, Visual Studio
+    
 ## Product Backlog
 __Our Product Backlog below is organized according to priority set by Product Owner.__
 <table>
