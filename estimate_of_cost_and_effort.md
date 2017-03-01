@@ -59,6 +59,20 @@ Connor Aitken, Devesh Binjola, Cindy Duan, Bryce Hairabedian, Shah Newaz, Robert
     - Systems Administration: linux, Windows, MacOS
     - Frameworks: Catalyst, Django, jQuery, Angular
     - Tools: subversion, git/github, eclipse, Visual Studio
+
+### Devesh Binjola
+  + Education
+    - B.S., Computer Science, Sacramento State
+  + Experience
+    - Computer Science Intern: PowerSchool Group
+    - AWS Certified Developer - Associate
+    - AWS Certified Solutions Architect - Associate
+  + Skills
+    - Languages: Python, Java,C/C++/C#, MySQL
+    - Web: React.JS, Node.JS, HTML, CSS, JavaScript, jQuery, Gulp, Grunt, .NET 
+    - Methodologies: Agile, Scrum
+    - Tools: Git, Linux, Eclipse, InteliJ, Jira, Slack, Sublime
+
     
 ## Product Backlog
 __Our Product Backlog below is organized according to priority set by Product Owner.__
