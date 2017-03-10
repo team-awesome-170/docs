@@ -430,6 +430,30 @@ Deliverables to be deferred in initial release
 
     -   Languages: Python, Java,C/C++/C\#, MySQL
 
+### **Cindy Duan**
+
+-   Education
+
+    -   B.S., Computer Science, Sacramento State
+
+-   Experience
+
+    -   worked in IT field more than 10 years for Oracle Partner and international companies, started from Programmer, System Analyst, Project Manager, Asian Pacific IT Manager and Oracle Consultant for Asia countries.
+
+-   Skills
+
+    -   Oracle ERP Implementation
+        - SD (Sales/Procurement/Logistics/Inventory)
+        - CRM
+        - MRP/MPS/DRP
+        - SFC/Finance(AR/AP/FA/Job Cost)/Project
+    -   Database Systems
+        - Oracle 9.10.11
+        - Microsoft Server
+        - AS400/DB2/400/SQL/RPG/LE/CL/Cobol/SDA/DDS/RLU/SEU/SQL
+        - JDE/BI App/Hyperion/Agile/EBS
+    
+
     -   Web: React.JS, Node.JS, HTML, CSS, JavaScript, jQuery, Gulp,
         > Grunt, .NET
 
