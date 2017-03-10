@@ -1,7 +1,7 @@
 **Team-Awesome**
 ================
 
-![](media/image01.png){width="4.546875546806649in" height="4.685321522309711in"}
+![csus logo](media/csus.jpg)
 --------------------------------------------------------------------------------
 
 **Project Proposal: Faculty Information Cards**
