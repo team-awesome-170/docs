@@ -15,6 +15,8 @@ Team Members: Aitken, Connor | Binjola, Devesh | Duan, Cindy |
 Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
 
 **Reason for this document (To who? And Why?)**
+This document provides the responce to the project proposal given by our instructor Professor Dale Fletter. 
+It consists of two parts : the Vision and Scope and the estimated cost and effort.
 
 Table of Contents
 -----------------
