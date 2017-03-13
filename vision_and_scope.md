@@ -116,7 +116,7 @@ The Oracle database 12.12 is required to be installed on the database server, an
 
 
 
-#Glossary of Terms and Accronyms
+#Glossary of Terms and Acronyms
 CS - Computer science
 CSUS - California State University Sacramento
 ABA - Administration Business Affairs 
