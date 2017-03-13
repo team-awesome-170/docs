@@ -16,7 +16,7 @@ Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
 
 **Reason for this document (To who? And Why?)**
 This document provides the responce to the project proposal given by our instructor Professor Dale Fletter. 
-This document also provides the Vision and Scope and the estimated cost and effort of the project.
+This document also includes the 'Vision and Scope', and the 'Estimated cost and effort' of the project.
 
 Table of Contents
 -----------------
