@@ -110,15 +110,11 @@ Table of Contents
 
 **1.3 Business Objectives**
 
-> The business objective is to create an automated tool where it takes
-> the required information from a database system and use that
-> information to generate faculty information cards.
+> The objective is to create a tool that retrieves information about a faculty member from a database system and uses that information to generate faculty information cards.
 
 **1.4 Success Metrics**
 
-> ***Acceptance criteria 1***: The system should includes the automation
-> of the necessary information being printed into all the cards using
-> information provided by the user.
+> ***Acceptance criteria 1***: The system should include the automation of the necessary information being printed into all the cards using information provided by the user.
 >
 > ***Acceptance criteria 2***: The system should also be capable of
 > printing a single card upon request.
@@ -187,25 +183,23 @@ Table of Contents
 
 **2.1 Major Features**
 
-> Elevator Pitch: A partially automated Faculty card system for the
-> Department of Computer Science California State University Sacramento.
+> Elevator Pitch: A partially automated 'Faculty Office Hour' card system for the Department of Computer Science
+   California State University Sacramento.
 >
 > Capable of housing all pertaining information relating to the Faculty
 > Card per each faculty member, updating or creation of new
 > faculty/class information, and the actul printing of the faculty card
 > after such information has been verified by all parties.
 >
-> Parties, Users include Computer Science Department (currently Veronica
-> Pruitt & Andrew), Instructor, ABA(Administration & Business Affairs),
-> and Admin to the system.
+> Parties & Users include : CS Department, Instructors, ABA(Administration & Business Affairs), and Admins to the system.
 
 **2.2 Scope of Initial Release**
 
 **Users**
 
--   Computer Science Department
+-   CS Department - Currently this is Veronica Pruitt: Office Administrator, and Andrew: Clerk.
 
--   Instructor
+-   Instructor(s) - The Professors and Lecturers in the CS department.
 
 -   System Admin
 
@@ -244,8 +238,7 @@ Deliverables to be deferred in initial release
 
 **2.4 Limitations and Exclusions**
 
-> The option to create multiple academic is not planned for this release
-> but will be an additional feature in future releases.
+> The option to create multiple academic departments is not planned for this release is a planned feature in future releases.
 
 **3. Business Context**
 
