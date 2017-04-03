@@ -10,4 +10,4 @@
 
 ### [estimate_of_cost_and_effor.md](https://team-awesome-170.github.io/docs/estimate_of_cost_and_effort) 
 
-### [Software Requirement Specification](https://team-awesome-170.github.io/docs/SEAR-RFP-SPR17)
+### [Software Requirement Specification](https://team-awesome-170.github.io/docs/srs)
