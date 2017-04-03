@@ -24,11 +24,10 @@ The software is intended for internal department.  Optionally, other departments
 The new system can streamline some of the administrative overhead by allowing faculty to access the system and enter their own office hours as well as automate the ETL process when downloading the schedule data from Space Management.
 
 ## 1.3 Business Objectives
-The business objective is to create an automated tool where it takes the required information fr
-om a database system and use that information to generate faculty information cards.
+The objective is to create a tool that retrieves information about a faculty member from a database system and uses that information to generate faculty information cards. 
 
 ## 1.4 Success Metrics
-*Acceptance criteria 1*: The system should includes the automation of the necessary information being printed into all the cards using information provided by the user.
+*Acceptance criteria 1*: The system should include the automation of the necessary information being printed into all the cards using information provided by the user.
    
 *Acceptance criteria 2*: The system should also be capable of printing a single card upon request.
     
@@ -61,18 +60,18 @@ To create a user-friendly automated software that helps CS faculty administratio
 
 # 2. Scope and Limitations
 ## 2.1 Major Features
-Elevator Pitch: A partially automated Faculty card system for the Department of Computer Science
+Elevator Pitch: A partially automated 'Faculty Office Hour' card system for the Department of Computer Science
  California State University Sacramento.
 
 Capable of housing all pertaining information relating to the Faculty Card per each faculty member, updating or creation of new faculty/class information, and the actul printing of the faculty card after such information has been verified by all parties.
 
-Parties, Users include Computer Science Department (currently Veronica Pruitt & Andrew), Instructor, ABA(Administration & Business Affairs), and Admin to the system.
+Parties, Users include, Instructor, ABA(Administration & Business Affairs), and Admin to the system.
     
 ## 2.2 Scope of Initial Release
 ### Users
-* Computer Science Department
-* Instructor
-* System Admin
+* CS Department - Currently this is Veronica Pruitt: Office Administrator, and Andrew: Clerk. 
+* Instructor(s) - The Professors and Lecturers in the CS department. 
+* System Admin - 
     
 ### Initial Release
 The initial release will consist of a large subset of desired features. These features are provided in terms of User Story epics that convey the scope of work to be considered "Done."
@@ -90,7 +89,7 @@ The initial release will consist of a large subset of desired features. These fe
 * Print from desk option for Instructor
 
 ## 2.4 Limitations and Exclusions
-* The option to create multiple academic is not planned for this release but will be an additional feature in future releases.
+* The option to create multiple academic departments is not planned for this release is a planned feature in future releases.
 
 # 3. Business Context
 ## 3.1 Stakeholder Profiles
@@ -114,3 +113,13 @@ __IT Staff__ - There may or may not be IT staff required to install faculty info
 
 ## 3.3 Deployment Considerations
 The Oracle database 12.12 is required to be installed on the database server, and apple browser and windows explore need to be upgraded to the newest version on the web server. Application server have to be ready one day before promote all the program objects from test environment to production. One additional backup printer has to be ready for print the faculty information cards. 
+
+
+
+#Glossary of Terms and Acronyms
+CS - Computer science
+CSUS - California State University Sacramento
+ABA - Administration Business Affairs 
+SM - Space Management 
+Faculty Information Cards - Printed Cards display the most recent information about faculty member contact info and office hours. 
+CRUD - Create Read Update Delete

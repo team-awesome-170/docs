@@ -16,7 +16,9 @@ Hairabedian, Bryce | Newaz, Shah | Wadsworth, Robert
 
 **Reason for this document (To who? And Why?)**
 This document provides the responce to the project proposal given by our instructor Professor Dale Fletter. 
+
 This document also includes the 'Vision and Scope', and the 'Estimated cost and effort' of the project.
+
 
 Table of Contents
 -----------------
@@ -114,7 +116,7 @@ Table of Contents
 
 **1.4 Success Metrics**
 
-> ***Acceptance criteria 1***: The system should include the automation of the necessary information being printed into all the cards using information provided by the user.
+> ***Acceptance criteria 1***: The system should include the automation of the necessary information being printed into all the cards using information provided by the user
 >
 > ***Acceptance criteria 2***: The system should also be capable of
 > printing a single card upon request.
@@ -191,7 +193,9 @@ Table of Contents
 > faculty/class information, and the actul printing of the faculty card
 > after such information has been verified by all parties.
 >
+
 > Parties & Users include : CS Department, Instructors, ABA(Administration & Business Affairs), and Admins to the system.
+
 
 **2.2 Scope of Initial Release**
 
@@ -238,7 +242,7 @@ Deliverables to be deferred in initial release
 
 **2.4 Limitations and Exclusions**
 
-> The option to create multiple academic departments is not planned for this release is a planned feature in future releases.
+> The option to create multiple academic is not planned for this release but will be an additional feature in future releases.
 
 **3. Business Context**
 
